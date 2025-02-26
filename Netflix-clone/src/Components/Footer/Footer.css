@@ -75,3 +75,10 @@
   margin-top: 10px;
   text-align: center;
 }
+/* @media (min-width: 758px) {
+  .footer__links {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+  }
+} */
